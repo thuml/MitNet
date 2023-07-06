@@ -48,9 +48,9 @@ We experiment on three benchmark datasets. MitNet reaches remarkable performance
 If you find this repo useful, please cite our paper. 
 
 ```
-@inproceedings{wu2023LSM,
-  title={Solving High-Dimensional PDEs with Latent Spectral Models},
-  author={Haixu Wu and Tengge Hu and Huakun Luo and Jianmin Wang and Mingsheng Long},
+@inproceedings{guo2023MitNet,
+  title={Estimating Heterogeneous Treatment Effects: Mutual Information Bounds and Learning Algorithms},
+  author={Xingzhuo Guo and Yuchen Zhang and Jianmin Wang and Mingsheng Long},
   booktitle={International Conference on Machine Learning},
   year={2023}
 }
